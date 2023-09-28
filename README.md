@@ -1,4 +1,3 @@
-# test_2
+# test
 
-# Buenas noches 
- 
+Esto es un repositorio compartido entre la tori, yo y el palomo.
